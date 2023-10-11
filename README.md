@@ -2,8 +2,6 @@
 <h3 align="center">🧑🏽‍🎓 A Passionate 3rd Year University of Johannesburg Student | Backend Developer Enthusiast</h3>
 
 
-  <img src="https://komarev.com/ghpvc/?username=gift-xipu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
