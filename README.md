@@ -15,7 +15,7 @@
 </p>
 
 - 🌱 I’m currently learning **C++ and Flutter**
-- 💬 Ask me about **React JS and Next JS**
+- 💬 Ask me about anything **React JS and Next JS**
 - 📫 How to reach me: **gift.xipu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -36,8 +36,24 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gift-xipu&layout=compact&theme=radical" alt="Top Languages">
 </p>
+
+<h2 align="center">About Me</h2>
+
+<p align="center">I'm a seasoned backend developer with several years of experience in building robust and scalable web applications. My journey in the tech world began during my university days, where I discovered my passion for coding and problem-solving. Since then, I've had the opportunity to work on a variety of projects, ranging from e-commerce platforms to financial management systems.</p>
+
+<h2 align="center">Personal Projects</h2>
+
+<p align="center">In my free time, I enjoy working on personal projects that challenge me to learn new technologies and experiment with different coding techniques.</p>
+
+<h2 align="center">Interests and Hobbies</h2>
+
+<p align="center">When I'm not coding, you can find me exploring the great outdoors, playing the guitar, or experimenting with new recipes in the kitchen. I believe in maintaining a healthy work-life balance and finding joy in both professional achievements and personal passions.</p>
+
